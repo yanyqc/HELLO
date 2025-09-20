@@ -1,2 +1,2 @@
 # HELLO
-My first repository in ithub
+My first repository in github  
